@@ -31,3 +31,8 @@ public class ServerFeatures {
 
 }
 ```
+
+
+## History
+
+This is a copy (with some modifications) from the API defined in https://github.com/quarkiverse/quarkus-mcp-server/tree/main/core/runtime/src/main/java/io/quarkiverse/mcp/server.
